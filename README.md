@@ -1,6 +1,6 @@
 
 
-# Hi there 👋 
+# Dayoung Jeong 👋 
 💁 1994.03.06    
 🎓 단국대학교 스포츠경영학과 
 
