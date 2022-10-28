@@ -12,7 +12,7 @@
    * Java, Spring, Spring Boot, MyBatis, DB, JSP & Servlet, JavaScript , JQuery 실무 프로젝트를 진행하여 교육과정 수료
    * 프로젝트 :  [bit_project_info.pdf](https://github.com/day0ung/bit_project/files/9707784/bit_project_info.pdf)
      * 호텔 검색 및 예약 서비스(1차)
-        * <a href="[https://github.com/day0ung/bit_study](https://github.com/day0ung/bit_study/tree/master/SemiProject/HotelBlueMoon_20200218_Final)" > Source Code in bit_study "HotelBlueMoon_20200218_Final" </a>
+        * <a href="https://github.com/day0ung/bit_study/tree/master/SemiProject/HotelBlueMoon_20200218_Final" > Source Code in bit_study "HotelBlueMoon_20200218_Final" </a>
      * 개인 및 그룹스터디 소모임 횐경 제공 서비스 (2차)
         * <a href="https://github.com/day0ung/bit_project" > Source Code in bit_project </a>
   
