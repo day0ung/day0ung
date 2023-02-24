@@ -2,29 +2,12 @@
 
 # Dayoung Jeong 👋 
 
+<a href="https://github.com/day0ung"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=day0ung&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/day0ung"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=day0ung&layout=compact&theme=default&hide_border=true" /></a> 
 
 ---
-## 📚 Education
-* <b>비트캠프 146기 [프론트엔드 및 백엔드 개발자 양성과정] </b>
-   * 2019.11 ~ 2020.05 
-   * Java, Spring, Spring Boot, MyBatis, DB, JSP & Servlet, JavaScript , JQuery 실무 프로젝트를 진행하여 교육과정 수료
-   * 프로젝트 :  [bit_project_info.pdf](https://github.com/day0ung/bit_project/files/9707784/bit_project_info.pdf)
-     * 호텔 검색 및 예약 서비스(1차)
-        * <a href="https://github.com/day0ung/bit_study/tree/master/SemiProject/HotelBlueMoon_20200218_Final" > Source Code in bit_study "HotelBlueMoon_20200218_Final" </a>
-     * 개인 및 그룹스터디 소모임 횐경 제공 서비스 (2차)
-        * <a href="https://github.com/day0ung/bit_project" > Source Code in bit_project </a>
-  
----
-## 🏢 Work Experience
-
-+ <b> 이팝콘 [데이터 수집팀] </b>
-    +  2020.07 ~ 2023.02
-    +  데이터 수집 서비스 개발(Spring Boot, Node.js)
-    +  서비스 유지보수 및 수집데이터 모니터링 고도화 
-    +  데이터 이관(RDB to MongoDB) 개발 및 유지보수
-    +  데이터베이스 관리(Maria, MongoDB), 서버관리
+<div align="center">
  
- ---
  ## 🔭 Stacks
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -40,6 +23,25 @@
  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+</div>
+
+---
+
+## 🪧 Project
+비트캠프 146기 [프론트엔드 및 백엔드 개발자 양성과정]    
+* 1,2차 프로젝트 정보: **[bit_project_info.pdf](https://github.com/day0ung/bit_project/files/9707784/bit_project_info.pdf)**
+* **Palette** : 개인 공부 일정을 관리하고, 그룹스터디를 하고자 하는 회원에게 환경을 제공하는 사이트
+    *  2020.03.26 ~ 2020.05.04 (41일) / 5인 팀 프로젝트
+    * <a href="https://github.com/day0ung/bit_project" > Source Code of Palette </a>
+    * AWS EC2, AWS S3, Spring Boot 2.2.6, JDK 1.8,  Vue CLI 3, Git, Mysql
+* **Hotel Blue Moon** :  이용 가능한 호텔을 검색하고 예약 및 결제 시스템을 지원하는 사이트
+    * 2019.02.03 ~ 2020.02.20 (17일) / 4인 팀 프로젝트
+    * <a href="https://github.com/day0ung/bit_study/tree/master/SemiProject/HotelBlueMoon_20200218_Final" > Source Code of Hotel Blue Moon </a>
+    * JSP, Java Servle, Oracle
+  
+---
+
 <!--
 **jdevyoung/jdevyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
