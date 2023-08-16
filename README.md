@@ -29,16 +29,17 @@
 ---
 
 ## 🪧 Project
-비트캠프 146기 [프론트엔드 및 백엔드 개발자 양성과정]    
-* 1,2차 프로젝트 정보: **[bit_project_info.pdf](https://github.com/day0ung/bit_project/files/9707784/bit_project_info.pdf)**
-* **Palette** : 개인 공부 일정을 관리하고, 그룹스터디를 하고자 하는 회원에게 환경을 제공하는 사이트
-    *  2020.03.26 ~ 2020.05.04 (41일) / 5인 팀 프로젝트
-    * <a href="https://github.com/day0ung/bit_project" > Source Code of Palette </a>
-    * AWS EC2, AWS S3, Spring Boot 2.2.6, JDK 1.8,  Vue CLI 3, Git, Mysql
-* **Hotel Blue Moon** :  이용 가능한 호텔을 검색하고 예약 및 결제 시스템을 지원하는 사이트
-    * 2019.02.03 ~ 2020.02.20 (17일) / 4인 팀 프로젝트
-    * <a href="https://github.com/day0ung/bit_study/tree/master/SemiProject/HotelBlueMoon_20200218_Final" > Source Code of Hotel Blue Moon </a>
-    * JSP, Java Servle, Oracle
+
+
+* 비트캠프 1,2차 프로젝트: [Project Detail](https://github.com/day0ung/bit_project/files/9707784/bit_project_info.pdf)
+  * Palette  : 개인 공부 일정을 관리하고, 그룹스터디를 하고자 하는 회원에게 환경을 제공하는 서비스
+      *  2020.03.26 ~ 2020.05.04 (41일) / 5인 팀 프로젝트
+      * AWS EC2, AWS S3, Spring Boot 2.2.6, JDK 1.8,  Vue CLI 3, Git, Mysql
+      * <a href="https://github.com/day0ung/bit_project" > Palette - Repository </a>
+  * Hotel Blue Moon :  이용 가능한 호텔을 검색하고 예약 및 결제 시스템을 지원하는 서비스
+      * <a href="https://github.com/day0ung/bit_study/tree/master/SemiProject/HotelBlueMoon_20200218_Final" > Hotel Blue Moon -Repository </a>
+      * 2019.02.03 ~ 2020.02.20 (17일) / 4인 팀 프로젝트
+      * JSP, Java Servle, Oracle
   
 ---
 
